@@ -349,6 +349,13 @@ He wrote a haiku about Apsen
 so sweet it made my head spin,
 So I shared it with my followers on twitter.
 
-Kevin
+**Kevin**
 Off-by-one on the third
 But I wouldn't have done better, as a bird
+
+**Dave Belcher**
+There was a programmer called Gus
+Who wanted to stream to the bus
+He didn't have fun
+Cus he was off by one
+Until he added plus plus
