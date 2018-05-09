@@ -359,3 +359,10 @@ Who wanted to stream to the bus
 He didn't have fun
 Cus he was off by one
 Until he added plus plus
+
+**Nicholas Timmons**
+A standard was made called C++17,
+but the lines they were not read in-between,
+Its such a depressor
+Now that the 'if constexpr'esor
+*Make weakly typed C++ definitions routine*
