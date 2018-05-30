@@ -368,3 +368,12 @@ Its such a depressor
 Now that the 'if constexpr'esor  
 *Make weakly typed C++ definitions routine*  
 
+**Kate Gregory**
+https://twitter.com/ridiculous_fish/status/1001681073917620224  
+**Ridiculous Fish @ridiculous_fish*  
+do this (a C++ poem):  
+  
+If volatile or bitor  
+try short break  
+goto this private void, float  
+and return new  
