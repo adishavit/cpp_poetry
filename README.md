@@ -377,3 +377,8 @@ If volatile or bitor
 try short break  
 goto this private void, float  
 and return new  
+
+**Ólafur Waage**  
+In the constructor  
+Object is not fully formed  
+Be careful with `this`
