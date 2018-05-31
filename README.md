@@ -368,17 +368,30 @@ Its such a depressor
 Now that the 'if constexpr'esor  
 *Make weakly typed C++ definitions routine*  
 
-**Kate Gregory**
-https://twitter.com/ridiculous_fish/status/1001681073917620224  
-**Ridiculous Fish @ridiculous_fish*  
-do this (a C++ poem):  
-  
-If volatile or bitor  
-try short break  
-goto this private void, float  
-and return new  
+**Kate Gregory**  
+https://twitter.com/ridiculous_fish/status/1001681073917620224   
+> **Ridiculous Fish @ridiculous_fish*  
+> do this (a C++ poem):  
+>  
+> If volatile or bitor  
+> try short break  
+> goto this private void, float  
+> and return new  
 
 **Ólafur Waage**  
 In the constructor  
 Object is not fully formed  
 Be careful with `this`
+
+**Tony Van Eerd**   
+https://twitter.com/kvlly/status/1000712328847994881   
+> **Kelly Vaughn@kvlly**
+> Hey I just met you  
+> And this is crazy  
+> But here's a PR  
+>  So git merge maybe  
+
+**Peter Bindels**  
+https://twitter.com/CppSage/status/1001969449489092609  
+> **Matt Calabrese@CppSage**  
+> @ridiculous_fish if using reinterpret_cast while constexpr, do not continue. try using static_cast for this -- constexpr requires not > using reinterpet_cast.
