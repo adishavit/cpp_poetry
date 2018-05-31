@@ -395,3 +395,11 @@ https://twitter.com/kvlly/status/1000712328847994881
 https://twitter.com/CppSage/status/1001969449489092609  
 > **Matt Calabrese@CppSage**  
 > @ridiculous_fish if using reinterpret_cast while constexpr, do not continue. try using static_cast for this -- constexpr requires not > using reinterpet_cast.
+
+**Jon Kalb**  
+Of C++, I can’t get my fill.  
+After two dozen years, it’s still a thrill,  
+But my wife took a vacation stand  
+Planned a trip, long ago, to Switzerland.  
+We’ll see it all, we really will,  
+Every town, except Rapperswill.  
