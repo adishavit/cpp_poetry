@@ -370,7 +370,7 @@ Now that the 'if constexpr'esor
 
 **Kate Gregory**  
 https://twitter.com/ridiculous_fish/status/1001681073917620224   
-> **Ridiculous Fish @ridiculous_fish*  
+> **Ridiculous Fish @ridiculous_fish**   
 > do this (a C++ poem):  
 >  
 > If volatile or bitor  
