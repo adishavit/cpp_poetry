@@ -402,7 +402,7 @@ After two dozen years, it’s still a thrill,
 But my wife took a vacation stand  
 Planned a trip, long ago, to Switzerland.  
 We’ll see it all, we really will,  
-Every town, except Rapperswill.  
+Every town, except Rapperswil.  
 
 **Shafik Yaghmour**
 
