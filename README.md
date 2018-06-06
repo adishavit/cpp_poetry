@@ -409,28 +409,32 @@ Every town, except Rapperswill.
 https://twitter.com/shafikyaghmour/status/986353977179516928
 
 Ode to the ternary operator
-<BR><BR>
-her eyes were a question mark, her mouth a semi-colon<BR>
-i feel in love with smooth operator the first time I met her<BR>
-no more if and else for me<BR>
-it’s ternary and me forever<BR>
-<BR>
+
+
+her eyes were a question mark, her mouth a semi-colon  
+i feel in love with smooth operator the first time I met her  
+no more if and else for me  
+it’s ternary and me forever  
+
+
 https://twitter.com/shafikyaghmour/status/980898697578921984
 
 This is Just to Say -- Compilers Undefined Behavior Edition
-<BR><BR>
-This Is Just to Say<BR>
-I have translated<BR>
-the program<BR>
-that was<BR>
-in the translation units<BR>
-<BR>
-and which<BR>
-you were probably<BR>
-expecting<BR>
-predictable results<BR>
-<BR>
-Forgive me<BR>
-they required no diagnostic<BR>
-so undefined<BR>
+
+
+I have translated  
+the program  
+that was  
+in the translation units  
+
+
+and which  
+you were probably  
+expecting  
+predictable results  
+
+
+Forgive me  
+they required no diagnostic  
+so undefined  
 and so erroneous
