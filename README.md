@@ -403,3 +403,34 @@ But my wife took a vacation stand
 Planned a trip, long ago, to Switzerland.  
 We’ll see it all, we really will,  
 Every town, except Rapperswill.  
+
+**Shafik Yaghmour**
+
+https://twitter.com/shafikyaghmour/status/986353977179516928
+
+Ode to the ternary operator
+<BR><BR>
+her eyes were a question mark, her mouth a semi-colon<BR>
+i feel in love with smooth operator the first time I met her<BR>
+no more if and else for me<BR>
+it’s ternary and me forever<BR>
+<BR>
+https://twitter.com/shafikyaghmour/status/980898697578921984
+
+This is Just to Say -- Compilers Undefined Behavior Edition
+<BR><BR>
+This Is Just to Say<BR>
+I have translated<BR>
+the program<BR>
+that was<BR>
+in the translation units<BR>
+<BR>
+and which<BR>
+you were probably<BR>
+expecting<BR>
+predictable results<BR>
+<BR>
+Forgive me<BR>
+they required no diagnostic<BR>
+so undefined<BR>
+and so erroneous
