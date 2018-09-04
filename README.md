@@ -536,9 +536,9 @@ The Ranges mire
 
 
 **Simon Brand**
-CppCon looms
-Constant checking of email
-More constant checking
+CppCon looms  
+Constant checking of email  
+More constant checking  
 
 **JF Bastien**  
 https://twitter.com/jfbastien/status/1037042152881049600
