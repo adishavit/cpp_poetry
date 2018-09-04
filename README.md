@@ -441,82 +441,48 @@ and so erroneous
 
 **Tony Van Eerd**
 
-(Black Sabbath, Crazy Train)
+(Black Sabbath, Crazy Train which Herb played on the piano one evening in Rapperswille, so...)
 
-All aboard! Hahahahahahaha!
+All aboard! Hahahahahahaha!  
 (I I I I I)
 
-Crazy, but that's how it goes
-Millions of programmers, working at code
-Maybe, it's not too late
-To write a proposal, and submit by the date
+Crazy, but that's how it goes  
+Millions of programmers, working at code  
+Maybe, it's not too late  
+To write a proposal, and submit by the date  
 
 Paper flaws not healing, code's a bitter shame
 
-I'm going off the rails on the release train
-I'm going off the rails on the release train
-
-I've listened to masters, I've listened to fools
-I've watched all the core group, who write all the rules
-One person petitioned, my rule breaks flow control
-The plenary says TS, and I'm stuck in the role
-
-Paper flaws still reeling, driving me insane
-
-I'm going off the rails on the release train
+I'm going off the rails on the release train  
 I'm going off the rails on the release train
 
-I know that things are going wrong for me
-You gotta help me with the words, Yeah yeah!
+I've listened to masters, I've listened to fools  
+I've watched all the core group, who write all the rules  
+One person petitioned, my rule breaks flow control  
+The plenary says TS, and I'm stuck in the role  
 
-Heirs of a paper war, that's what we've become
-Inheriting troubles, I'm mentally numb
-Crazy, I just cannot bear
-I'm living with something, that just isn't fair
+Paper flaws still reeling, driving me insane  
 
-Paper flaws not healing, who and what's to blame
+I'm going off the rails on the release train  
+I'm going off the rails on the release train  
 
-I'm going off the rails on the release train
-I'm going off the rails on the release train
+I know that things are going wrong for me  
+You gotta help me with the words, Yeah yeah!  
 
-(Black Sabbath, Crazy Train which Herb played on the piano this evening, so...)
+Heirs of a paper war, that's what we've become  
+Inheriting troubles, I'm mentally numb  
+Crazy, I just cannot bear  
+I'm living with something, that just isn't fair  
 
-All aboard! Hahahahahahaha!
+Paper flaws not healing, who and what's to blame  
 
-Crazy, but that's how it goes
-Millions of programmers, working at code
-Maybe, it's not too late
-To write a proposal, and submit by the date
+I'm going off the rails on the release train  
+I'm going off the rails on the release train  
 
-Paper flaws not healing, code's a bitter shame
 
-I'm going off the rails on the release train
-I'm going off the rails on the release train
-
-I've listened to masters, I've listened to fools
-I've watched all the core group, who write all the rules
-One person petitioned, my rule breaks flow control
-The plenary says TS, and I'm stuck in the role
-
-Paper flaws still reeling, driving me insane
-
-I'm going off the rails on the release train
-I'm going off the rails on the release train
-
-I know that things are going wrong for me
-You gotta help me with the words, Yeah yeah!
-
-Heirs of a paper war, that's what we've become
-Inheriting troubles, I'm mentally numb
-Crazy, I just cannot bear
-I'm living with something, that just isn't fair
-
-Paper flaws not healing, who and what's to blame
-
-I'm going off the rails on the release train
-I'm going off the rails on the release train
 
 **Tony Van Eerd**
+
 Code is a churning thing  
 And it makes a coder sting  
 Bound by algo desire  
@@ -561,6 +527,19 @@ The Ranges mire
 The Ranges mire  
 
 **Simon Brand**
+
 CppCon looms
 Constant checking of email
 More constant checking
+
+** JF Bastien **
+
+https://twitter.com/jfbastien/status/1037042152881049600
+
+Hello Dhrystone, my old friend  
+I've come to optimize you again  
+Because a strcmp softly creeping  
+Left its trace while I was sleeping  
+And the optimization that was planted in my brain  
+Still remains  
+Within the sound of inlining
