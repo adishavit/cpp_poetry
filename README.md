@@ -4,14 +4,14 @@ Saving the art of the C++ Slack #poerty channel for posterity
   
 #poetry  
   
-Phil Nash:  
+**Phil Nash**  
 there was a new channel called #poetry  
 whose content was decidely throwaway  
 but starting with root  
 and more nodes to boot  
 we realised that we could just grow a tree  
   
-Adi Shavit:  
+**Adi Shavit**  
 I say it shall be,  
 a repository  
 of poetry inspiration.   
@@ -20,7 +20,7 @@ Where the poor coder,
 or poet or speaker,  
 may find slides for their presentation.  
   
-Phil Nash:  
+**Phil Nash**  
 ```  
 auto theAnswer( int b ) {  
     auto question = [=]{ return (2*b) | !(2*b); };  
@@ -31,48 +31,41 @@ int main() {
 }  
 ```  
   
-Kab:  
+**Jon Kab**  
 Here is my ACK  
 This poem is whack  
   
-Tveerd  
-  
+**Tony Van Eerd**  
 Remember when selecting a container, vector is best;  
 Leave a comment when choosing one of the rest.  
   
-I need some help with this one:  
-(With apologies to @patricer and other Cohen lovers, like me)  
-http://leonardcohenfiles.com/album8.html#61  
-https://en.wikipedia.org/wiki/Duff%27s_device  
-  
+**Tony Van Eerd**  
 Leonard Cohen on Duff's device:  
   
 Now I've heard there was a secret code  
-That Duff did type, and it pleased the load/Lord  
+That Duff did type, and it pleased the load  
 But you don't really care for coding, do you?  
 It goes like this  
 The for, the switch  
 The minor fallthrough, the performance lift  
-The baffled dev composing Unrolled loops, yeah   
+The baffled dev composing unrolled loops, yeah   
 Unrolled loops, yeah  
 Unrolled loops, yeah  
 Unrolled loops, yeah  
 Unrolled loops, yeah  
   
-So, "load" or "Lord"? - load makes sense for performance, but I like connecting Duff's device to something holy/mystical  
   
-Simon Brand:  
-  
+**Simon Brand**  
 My compiler has betrayed me and left me to my fate,  
 My program doesn't work, it just calls `std::terminate`.  
   
-Kab  
+**Jon Kab**  
 I find that when you're a newbie  
 Your biggest headache is UB  
   
-Tveerd  
+**Tony Van Eerd**  
 Causing me pain with his fingers  
-Filling my app with his code‎  
+Filling my app with his code  
 Killing me softly with his code  
 Killing me softly with his code  
 Filling my whole life with his code  
@@ -94,13 +87,13 @@ I felt he'd found my patterns and turned each one around
 I prayed that he would finish, but he just kept right on  
   
 Causing me pain with his fingers  
-Filling my app with his code‎  
+Filling my app with his code  
 Killing me softly with his code  
 Killing me softly with his code  
 Filling my whole life with his code  
 Killing me softly with his code  
   
-Adi  
+**Adi Shavit**  
 There goes my time with this channel,  
 Deadlines rush by with a whoosh,  
 Killing my produc-tivity  
@@ -109,23 +102,37 @@ Killing it softly with his poems
 Filling my inbox, @tvaneerd songs  
 Killing it softly, with his poems.  
   
-Tveerd  
+**Tony Van Eerd**  
 ABBA on ABA (lockfree issue)  
   
 If you change your mind, on the node first in line  
 Honey I was free  
 Take a chance on me  
+If you freed me, now you know, I'll come back around  
+Head's got a place for a node, when the stack's popping down  
+If head finds my node when the other nodes have gone  
+Honey I was free  
+Take a chance on me  
 Gonna do my very best, but I may be a lie  
-If you put me to the [cas] test, if you let me try  
+If you use me in the CAS, if you let me try  
+Take a chance on me  
+(That's all I ask of you honey)  
 Take a chance on me  
 Take a chance, take a chance, take a chance on me  
   
 (the stutter at the end is due to a threading bug)  
   
-Kab  
+**Zach Weinersmith**  
+(via Jon Kab)  
 https://twitter.com/ZachWeiner/status/935885308712898561  
+Because of a portion repeated.  
+This poem’s last line is secreted.  
+When line four is done  
+Return to line one  
+(If reading this, you must’ve cheated)
   
-Tveerd  
+
+**Tony Van Eerd**    
 'Twas the night be release  
 Yet VC's were about to divest  
 Not a file was compiling  
@@ -133,14 +140,14 @@ Not even a test
   
 (need to start practicing for Christmas)  
   
-Nicole Mazzuca  
+**Nicole Mazzuca**  
 I like monads and I cannot lie  
 you other coders can't deny  
 when IO walks in with an itty-bitty bind  
 and side effects on the mind  
 I get sprung  
   
-Stephan Boekelman  
+**Stephan Boekelman**  
 a programmer applies - you ask him what for  
 he says the whole stack - blue sky to green floor  
   
@@ -162,7 +169,7 @@ you take down your arm - in an unconscious process
 says as a JS guy - he's clearly worth more  
 you facepalm your self - and show him the door  
   
-Adi  
+**Adi Shavit**  
 I’m proud, I must tell you,  
 You’ll have to agree,  
 That programming’s a bit like   
@@ -178,32 +185,51 @@ That poets do not,
 The one that enforces  
 compiling or not.  
   
-Jens Weller  
+  
+**Jens Weller**  
 The archives are depleted,  
 all poetry has been deleted.  
   
-Kab  
+**Jon Kab**  
 Since these lines are ephemeral,  
 better make backups several  
   
-Tveerd  
+**Tony Van Eerd**  
 Now that's a travesty;  
 Almost as bad as coding in C.  
   
-Jon Kalb  
+
+**Jon Kalb**  
 With the speed of horse-drawn coaches  
 the submission deadline approaches.  
 You’ll have so much fun in Aspen  
 When you send your proposed talk in.  
   
-Jena Weller  
+**Jena Weller**  
 Thinking about to commit to C++Now,  
 what talk to submit to enjoy a few days of snow?  
 With out much fuzz, it should be something about C++,  
 but it also should be cutting edge, otherwise I'll not get the program committees match...  
 So I ponder, and wonder should I wait with submitting how much longer?  
   
-Tony Van Eerd  
+**Tony Van Eerd**  
+words and thoughts swirling  
+blossoms on the Aspen trees  
+new ideas sprout  
+
+**Kevin**  
+Off-by-one on the third  
+But I wouldn't have done better, as a bird  
+  
+**Jon Kalb**  
+There once was a man from Kitchener  
+Who was a poet as well as a presenter.  
+He wrote a haiku about Apsen  
+so sweet it made my head spin,  
+So I shared it with my followers on twitter.  
+
+
+**Tony Van Eerd**  
 With help from kd lang  
 https://genius.com/Kd-lang-miss-chatelaine-lyrics  
   
@@ -227,7 +253,8 @@ But I can explain why I do not
 Miss SFINAE  
 Miss SFINAE...  
   
-Jens Weller:  
+
+**Jens Weller**  
 Your modifications fix the calculation  
 But I’m afraid you forgot a tabulation.  
 This is the beginning of your tribulation.  
@@ -283,10 +310,12 @@ Then concentrate on things that matter really.
 And so use a tool and accept its caveats  
 For your productivity, use clang-format.  
   
-Peter Bindels  
+
+**Peter Bindels**  
 `du` messt alles, was ich habe, auf der harddisk. `du` messt alles, auf mein SSD. `du`! `du` allein sieht mein verbrauch! (to the tune of   https://youtu.be/iy-nr1L_YrY?t=1m09s )  
   
-Jon Kalb  
+
+**Jon Kalb**  
 On the twelfth day of Christmas  
 the committee sent to me:  
 Twelve file systems  
@@ -302,12 +331,8 @@ Three stood negations
 Two stood disjunctions  
 and parallel algorithms.  
   
-Tony vanEerd  
-words and thoughts swirling  
-blossoms on the Aspen trees  
-new ideas sprout  
   
-Kate Gregory  
+**Kate Gregory**  
 I have archived  
 the poems  
 that were in  
@@ -323,36 +348,21 @@ they were funny
 so C++  
 and so rhyming  
   
-Ben Steffan  
+**Ben Steffan**  
 "Is this channel still  
 alive?", I ask, lamenting  
 the bare void within.  
   
-Adi Shavit  
+**Adi Shavit**  
 Indeed it is, despite Slack’s haste  
 I saved it all with copy-paste.   
 Still need to start a repository  
 For all the witty poetry  
   
-Yogendra Singh  
+**Yogendra Singh**  
 My soul, it thirsts,  
 For your, wise words.  
   
-Tony  
-words and thoughts swirling  
-blossoms on the Aspen trees  
-new ideas sprout  
-  
-Jon  
-There once was a man from Kitchener  
-Who was a poet as well as a presenter.  
-He wrote a haiku about Apsen  
-so sweet it made my head spin,  
-So I shared it with my followers on twitter.  
-  
-**Kevin**  
-Off-by-one on the third  
-But I wouldn't have done better, as a bird  
   
 **Dave Belcher**  
 There was a programmer called Gus  
@@ -368,33 +378,36 @@ Its such a depressor
 Now that the 'if constexpr'esor  
 *Make weakly typed C++ definitions routine*  
 
-**Kate Gregory**  
+**Ridiculous Fish @ridiculous_fish**   
+(via kate Gregory)  
 https://twitter.com/ridiculous_fish/status/1001681073917620224   
-> **Ridiculous Fish @ridiculous_fish**   
-> do this (a C++ poem):  
->  
-> If volatile or bitor  
-> try short break  
-> goto this private void, float  
-> and return new  
+do this (a C++ poem):  
+  
+If volatile or bitor  
+try short break  
+goto this private void, float  
+and return new  
+
+**Matt Calabrese@CppSage**  
+(via Peter Bindels)  
+https://twitter.com/CppSage/status/1001969449489092609  
+@ridiculous_fish if using reinterpret_cast while constexpr, do not continue. try using static_cast for this -- constexpr requires not using reinterpet_cast.
+
 
 **Ólafur Waage**  
 In the constructor  
 Object is not fully formed  
 Be careful with `this`
 
-**Tony Van Eerd**   
-https://twitter.com/kvlly/status/1000712328847994881   
-> **Kelly Vaughn@kvlly**
-> Hey I just met you  
-> And this is crazy  
-> But here's a PR  
->  So git merge maybe  
 
-**Peter Bindels**  
-https://twitter.com/CppSage/status/1001969449489092609  
-> **Matt Calabrese@CppSage**  
-> @ridiculous_fish if using reinterpret_cast while constexpr, do not continue. try using static_cast for this -- constexpr requires not > using reinterpet_cast.
+**Kelly Vaughn@kvlly**  
+(via Tony Van Eerd)   
+https://twitter.com/kvlly/status/1000712328847994881   
+Hey I just met you  
+And this is crazy  
+But here's a PR  
+So git merge maybe  
+
 
 **Jon Kalb**  
 Of C++, I can’t get my fill.  
@@ -404,12 +417,11 @@ Planned a trip, long ago, to Switzerland.
 We’ll see it all, we really will,  
 Every town, except Rapperswil.  
 
-**Shafik Yaghmour**
 
-https://twitter.com/shafikyaghmour/status/986353977179516928
+**Shafik Yaghmour**  
+https://twitter.com/shafikyaghmour/status/986353977179516928  
 
 Ode to the ternary operator
-
 
 her eyes were a question mark, her mouth a semi-colon  
 i feel in love with smooth operator the first time I met her  
@@ -417,30 +429,28 @@ no more if and else for me
 it’s ternary and me forever  
 
 
-https://twitter.com/shafikyaghmour/status/980898697578921984
+**Shafik Yaghmour**  
+https://twitter.com/shafikyaghmour/status/980898697578921984  
 
 This is Just to Say -- Compilers Undefined Behavior Edition
-
 
 I have translated  
 the program  
 that was  
 in the translation units  
 
-
 and which  
 you were probably  
 expecting  
 predictable results  
-
 
 Forgive me  
 they required no diagnostic  
 so undefined  
 and so erroneous
 
-**Tony Van Eerd**
 
+**Tony Van Eerd**
 (Black Sabbath, Crazy Train which Herb played on the piano one evening in Rapperswille, so...)
 
 All aboard! Hahahahahahaha!  
@@ -480,9 +490,7 @@ I'm going off the rails on the release train
 I'm going off the rails on the release train  
 
 
-
 **Tony Van Eerd**
-
 Code is a churning thing  
 And it makes a coder sting  
 Bound by algo desire  
@@ -526,14 +534,13 @@ And it churns, churns, churns
 The Ranges mire  
 The Ranges mire  
 
-**Simon Brand**
 
+**Simon Brand**
 CppCon looms
 Constant checking of email
 More constant checking
 
-** JF Bastien **
-
+**JF Bastien**  
 https://twitter.com/jfbastien/status/1037042152881049600
 
 Hello Dhrystone, my old friend  
