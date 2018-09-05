@@ -550,3 +550,12 @@ Left its trace while I was sleeping
 And the optimization that was planted in my brain  
 Still remains  
 Within the sound of inlining
+
+
+**Eric Niebler**  
+I see a red node and I want to paint it black.  
+No red nodes anymore I want them to turn black.  
+
+**Tony Van Eerd**  
+I see the T's go by wrapped in their standard nodes  
+I have to churn my head until my balance grows  
